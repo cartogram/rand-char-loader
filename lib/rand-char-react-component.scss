@@ -1,0 +1,13 @@
+.rand-char-react-component {
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+html {
+    background:#fff;
+
+    &[data-loading] {
+        background: #ff0;
+    }
+}
