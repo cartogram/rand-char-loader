@@ -9,7 +9,11 @@
     "start": "webpack-dev-server --inline --hot"
   },
   "author": "Matt Seccafien <matt@studiocartogram.com> (http://cartogram.ca)",
-  "license": "BSD",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cartogram/rand-char-loader.git"
+  }
   "main": "rand-char-react-component.js",
   "keywords": [
     "react",
